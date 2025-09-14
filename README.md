@@ -1,8 +1,8 @@
-# Memory Ontology Manager — Requirements Spec
+# Memory Ontology Manager : Requirements Spec
 
-**Memory Ontology Manager** — *A governance subsystem that defines, versions, and semantically annotates memory schemas. It combines a Schema Registry, which captures the structural contracts of memory types and fields, with an Annotation Engine, which enriches those schemas with searchable and identity metadata for downstream indexing and update resolution.*
+**Memory Ontology Manager** : *A governance subsystem that defines, versions, and semantically annotates memory schemas. It combines a Schema Registry, which captures the structural contracts of memory types and fields, with an Annotation Engine, which enriches those schemas with searchable and identity metadata for downstream indexing and update resolution.*
 
-“**Memory Ontology Manager**” is a strong umbrella term — it carries the right weight. It signals:
+“**Memory Ontology Manager**” is a strong umbrella term : it carries the right weight. It signals:
 
 * **Ontology** → you’re not just storing schemas, you’re defining the *conceptual universe* of what a memory can be.
 * **Manager** → this is an active subsystem: versioning, annotating, governing.
